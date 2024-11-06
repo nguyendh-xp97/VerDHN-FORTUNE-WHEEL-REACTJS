@@ -14,7 +14,7 @@ User flow:
 
 Number of Members: 1
 
-Technologies used (framework,library,..): ReactJS, MUI, ES6, API, GitHub, Resrful API, CSS Animation, Styled Component, Responsive web design, Figma …
+Technologies used (framework,library,..): ReactJS, MUI, ES6, Resful API, GSAP Library GitHub, CSS Animation, Styled Component, Responsive web design, Figma …
 
 The part I have implemented: 
 + I am responsible for designing the data flow for the application, designing and programming both the user interface and features for the program, and designing and drawing the UI using Figma.
