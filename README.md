@@ -1,6 +1,9 @@
 Project: FORTUNE WHEEL- MINI GAME 
+
 Time: 1/3/2024 – 8/3/2024 
+
 Description:
+
 Overview:This is a freelance project commissioned by the client, ANZ Dental Clinic. It is a mini-game where users (employees of ANZ Dental Clinic) can fill in their information and participate in a lucky draw program to randomly win valuable prizes.
 User flow: 
 Users accessing the homepage will need to fill out the information form completely. 
