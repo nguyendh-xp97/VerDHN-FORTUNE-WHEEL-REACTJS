@@ -1,4 +1,4 @@
-Project: FORTUNE WHEEL- MINI GAME 
+Project: [ReactJS]FORTUNE WHEEL- MINI GAME 
 
 Time: 1/3/2024 – 8/3/2024 
 
